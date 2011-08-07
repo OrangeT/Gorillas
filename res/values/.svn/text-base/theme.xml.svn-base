@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="introTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:background">#0000ff</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#FFCC11</item>
+    </style>
+
+    <style name="introInput">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#FFCC11</item>
+        <item name="android:textSize">20px</item>
+        <item name="android:background">@drawable/introinput</item>
+    </style>
+
+    <style name="gameTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#FFCC11</item>
+        <item name="android:textSize">20px</item>
+    </style>
+
+    <style name="gameInput">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#FFCC11</item>
+        <item name="android:textSize">20px</item>
+        <item name="android:background">@drawable/introinput</item>
+    </style>
+</resources>

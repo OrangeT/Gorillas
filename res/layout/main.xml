@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <com.orangetentacle.gorillas.WorldView
+        android:id="@+id/WorldView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" />
+
+    <!-- Control layout -->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="50px" android:background="#0000ff" android:padding="2px"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/AngleLabel"
+            android:layout_width="50px"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+            android:text="Ang" />
+
+        <EditText
+            android:id="@+id/AngleEdit"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:text=""
+            android:inputType="number"
+            style="@style/gameInput" />
+
+
+        <TextView
+            android:id="@+id/PowerLabel"
+            android:layout_width="50px"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="20px"
+            android:gravity="center"
+            android:text="Pow" />
+
+        <EditText
+            android:id="@+id/PowerEdit"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+            android:text=""
+            android:inputType="number"
+            android:layout_weight="1"
+            android:layout_marginRight="20px"
+            style="@style/gameInput" />
+
+        <Button
+            android:id="@+id/EnterButton"
+            android:layout_width="50px"
+            android:layout_height="fill_parent"
+            android:text="Go"
+            style="@style/gameInput"/>
+
+    </LinearLayout>
+
+</LinearLayout>

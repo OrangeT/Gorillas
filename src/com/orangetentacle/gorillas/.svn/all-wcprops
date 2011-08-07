@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/com/orangetentacle/gorillas
+END
+GorillasActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21/trunk/src/com/orangetentacle/gorillas/GorillasActivity.java
+END
+GameEndListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/18/trunk/src/com/orangetentacle/gorillas/GameEndListener.java
+END
+Tower.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/src/com/orangetentacle/gorillas/Tower.java
+END
+AI.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/src/com/orangetentacle/gorillas/AI.java
+END
+WorldView.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/src/com/orangetentacle/gorillas/WorldView.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/20/trunk/src/com/orangetentacle/gorillas/Configuration.java
+END
+Banana.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21/trunk/src/com/orangetentacle/gorillas/Banana.java
+END
+GraphUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/src/com/orangetentacle/gorillas/GraphUtils.java
+END
+GorillasLaunchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20/trunk/src/com/orangetentacle/gorillas/GorillasLaunchActivity.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/src/com/orangetentacle/gorillas/World.java
+END
+Gorilla.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/src/com/orangetentacle/gorillas/Gorilla.java
+END
